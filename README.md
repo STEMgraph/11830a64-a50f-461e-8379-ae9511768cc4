@@ -1,6 +1,7 @@
 <!---
 {
   "id": "11830a64-a50f-461e-8379-ae9511768cc4",
+  "teaches": "Document Structure Hierarchy in LaTeX",
   "depends_on": ["00650b50-14de-471d-a347-246f47ffadde"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-02",
